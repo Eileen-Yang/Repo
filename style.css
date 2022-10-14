@@ -1,0 +1,109 @@
+* {
+    gap: 5%;
+    padding: 0%;
+    margin: 0%;
+  }
+  
+  h1 {
+    background-color: white;
+    border-top-style: solid;
+    border-color: lightblue;
+    margin: 2%;
+    width: max-content;
+    font-size: 300%;
+  }
+  
+  .child-1 {
+    background-color: lightblue;
+    text-align: left;
+    width: 100%;
+    display: flex;
+  }
+  
+  .child-1 > h2 {
+    position: relative;
+    font-size: 250%;
+    margin-top: 13%;
+    width: 50%;
+    height: 204px;
+    text-align: center;
+  }
+  
+  .child-1 > img {
+    position: relative;
+    width: 50%;
+  }
+  
+  .child-2 {
+    background-color: white;
+    text-align: left;
+    width: 100%;
+    display: flex;
+  }
+  
+  .child-2 > h2 {
+    position: relative;
+    font-size: 250%;
+    margin-top: 15%;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+  }
+  
+  .child-2 > img {
+    position: relative;
+    width: 50%;
+  }
+  
+  .child-3 {
+    background-color: lightblue;
+    text-align: left;
+    width: 100%;
+    display: flex;
+  }
+  
+  .child-3 > h2 {
+    position: relative;
+    font-size: 250%;
+    margin-top: 18%;
+    width: 50%;
+    height: 203px;
+    text-align: center;
+  }
+  
+  .child-3 > img {
+    position: relative;
+    width: 50%;
+  }
+  
+  .child-4 {
+    background-color: white;
+    text-align: left;
+    width: 100%;
+    display: flex;
+  }
+  
+  .child-4 > h2 {
+    position: relative;
+    font-size: 250%;
+    margin-top: 23%;
+    width: 50%;
+    height: 204px;
+    text-align: center;
+  }
+  
+  .child-4 > img {
+    position: relative;
+    width: 50%;
+  }
+  
+  a:link {color: black;}
+  
+  a:visited {color: lightsalmon;}
+  
+  a:hover {color: grey;}
+  
+  h2:hover {
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
