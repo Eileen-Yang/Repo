@@ -57,7 +57,7 @@
   }
   
   .child-3 {
-    background-color: lightblue;
+    background-color: plum;
     text-align: left;
     width: 100%;
     display: flex;
@@ -70,6 +70,7 @@
     width: 50%;
     height: 203px;
     text-align: center;
+    font-style: italic;
   }
   
   .child-3 > img {
