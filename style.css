@@ -6,6 +6,7 @@
   h1 {
     background-color: white;
     border-top-style: solid;
+    border-width: 5px;
     border-color: plum;
     margin: 2%;
     width: max-content;
